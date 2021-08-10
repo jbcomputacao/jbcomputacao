@@ -5,5 +5,3 @@
 
 - 🔭 Estou Trabalhando com BackEnd e Infraestrutura.
 - 🌱 Estudando Java + Spring Boot
-
-
