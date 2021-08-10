@@ -1,11 +1,12 @@
-### Hi there 👋
+![232310600_4315720328485172_638153635128055235_n](https://user-images.githubusercontent.com/16759381/128903074-e6699a23-0522-45a8-8b32-0e447e522955.jpg)
+
 
 <!--
 **jbcomputacao/jbcomputacao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on .
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
