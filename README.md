@@ -20,6 +20,14 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://img.icons8.com/color/50/000000/angularjs.png"/>
 <img align="center" alt="Rafa-Python" height="30" width="40"  src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+<img align="center" alt="jbcomputacao-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+    <img align="center" alt="jbcomputacao-CSharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+    <img align="center" alt="jbcomputacao-Php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+    <img align="center" alt="jbcomputacao-Laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
+    <img align="center" alt="jbcomputacao-Composer" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg"/>
+    <img align="center" alt="jbcomputacao-Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+    <img align="center" alt="jbcomputacao-Postgre" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
+    <img align="center" alt="jbcomputacao-Oracle" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>    
 
 </div>
   
