@@ -1,3 +1,4 @@
+
 ![jbengenharia2](https://user-images.githubusercontent.com/16759381/129243847-4620f9a6-8a5d-4b55-bdb2-a66285177d91.jpg)
 
 
@@ -13,12 +14,12 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbcomputacao&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="Rafa-React" height="40" width="50" src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v2.png"/>
-  <img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://img.icons8.com/color/50/000000/angularjs.png"/>
-<img align="center" alt="Rafa-Python" height="40" width="50"  src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+  <img align="center" alt="Jbcomputacao-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" alt="Jbcomputacao-React" height="40" width="50" src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v2.png"/>
+  <img align="center" alt="Jbcomputacao-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" alt="Jbcomputacao-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Jbcomputacao-Python" height="40" width="50" src="https://img.icons8.com/color/50/000000/angularjs.png"/>
+<img align="center" alt="Jbcomputacao-Python" height="40" width="50"  src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
 <img align="center" alt="jbcomputacao-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
     <img align="center" alt="jbcomputacao-CSharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
     <img align="center" alt="jbcomputacao-Php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
